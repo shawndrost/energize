@@ -145,6 +145,15 @@ yearSelector(2012);
 
 /*TODO
   implement state selector
-  implement force
+  >> histogram?
 
+  implement force
+  >> collision
+  >> gravity
+
+  >> slider for going from year to year
+
+  >> button that lets you go from year to year... and histogram of states transitions smoothly?
+
+  >> per capita measurement
 */
